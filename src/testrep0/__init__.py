@@ -1,2 +1,2 @@
 def hello():
-    return "Hello from testrep0!"
+    return "Hello from testrep0! And goodbye"
