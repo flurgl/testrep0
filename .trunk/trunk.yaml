@@ -39,4 +39,3 @@ merge:
   required_statuses:
     - Trunk Check
     - Unit Tests
-    - preview / Pulumi Preview API
